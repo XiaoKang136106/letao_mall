@@ -51,4 +51,4 @@
  
 
 (6) bridge模式，在项目中使用JDBC驱动访问数据库。
-![img](C:\Users\xiaok\Pictures\复习文档图片_勿删\教师资格证.png)
+
